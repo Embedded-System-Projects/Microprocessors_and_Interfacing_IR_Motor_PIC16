@@ -1,0 +1,16 @@
+                     # Steps for successful simulation
+
+=> Step 1: open IR-Motor-PIC16 proteus project
+=> Step 2: double click on the pic16877A Microcontroller, 
+           go to the program file row and click the folder icon
+=> Step 3: find and click on main.hex inside the hex file folder
+=> Step 4: and again double click on the infra red sensor, go to the 
+           program file row and click the folder icon
+=> Step 5: find and click on InfraredSensorsTEP.HEX inside the Hex folder
+=> Step 6: Finally its done! you may now run the simulation!
+
+                     # Project description
+
+=> This project is done using the following softwares
+      * Proteus
+      * CCS C Compiler 
